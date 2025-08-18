@@ -10,6 +10,9 @@
 5) Discount offered in each discount category.
 6) Total number of orders.
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product,Quater,Promotion Name,State)
+
+## Dashboard link
+https://app.powerbi.com/reportEmbed?reportId=895e1c83-01a3-4bb0-9448-7f8b938cc9c3&autoAuth=true&ctid=4bb5d666-cfbc-40e3-bb70-85515af2cf37
 ## Problem Statement
 
 This dashboard helps the retail to understand their sales,profit and quantity sold. It helps the reatil to know about their most selling product and the least selling product with the quanity sold for each and profit generate from them over the time. 
